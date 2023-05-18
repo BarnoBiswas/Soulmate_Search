@@ -1,0 +1,27 @@
+oni,18-25,Less than $10000,Islam,Bangladesh
+saifulislamoni06@gmail.com,18-25,Less than $10000,Islam,Bangladesh
+nna,40+,More than $100000,Hinduism,Bangladesh
+oni,18-25,Less than $10000,Islam,Bangladesh
+oni,26-30,$10000-$50000,Hinduism,America
+oni,18-25,Less than $10000,Islam,Bangladesh
+oni,31-35,$50000-$100000,Buddhism,Canada
+oni,31-35,$50000-$100000,Buddhism,Canada
+oni,18-25,Less than $10000,Islam,Bangladesh
+oni,18-25,Less than $10000,Islam,Bangladesh
+oni,40+,$50000-$100000,Other,Japan
+oni,40+,$50000-$100000,Buddhism,Japan
+oni,40+,$50000-$100000,Other,Japan
+oni,18-25,Less than $10000,Islam,Bangladesh
+oni,18-25,Less than $10000,Islam,Bangladesh
+oni,18-25,Less than $10000,Islam,Bangladesh
+joy@gmail.com,18-25,More than $100,000,Hinduism,Bangladesh
+joy@gmail.com,18-25,More than $100,000,Hinduism,Bangladesh
+oni,36-40,$10000-$50000,Christianity,Canada
+oni,18-25,Less than $10000,Islam,Japan
+suprio,18-25,Less than $10000,Islam,America
+abir1234,18-25,Less than $10000,Islam,Bangladesh
+abir1234,18-25,Less than $10000,Islam,Bangladesh
+abir1234,18-25,Less than $10000,Islam,Bangladesh
+abir1234,18-25,Less than $10000,Islam,Bangladesh
+abir1234,18-25,Less than $10000,Islam,Bangladesh
+zz,18-25,Less than $10000,Islam,Bangladesh
